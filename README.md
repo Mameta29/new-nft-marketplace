@@ -4,9 +4,9 @@ To run this project locally, follow these steps.
 1. Clone the project locally, change into the directory, and install the dependencies:
 
 ```
-git clone https://github.com/Mameta29/nft-marketplace.git
+git clone https://github.com/Mameta29/new-nft-marketplace.git
 
-cd nft-marketplace
+cd new-nft-marketplace
 
 # install using NPM or Yarn
 npm install
